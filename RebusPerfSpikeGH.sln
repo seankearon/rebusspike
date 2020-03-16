@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpikeBus", "SpikeBus\SpikeBus.csproj", "{173F3F2C-B254-49BB-BCFF-712C17D3A0A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageLoader", "MessageLoader\MessageLoader.csproj", "{83DE02B1-7936-4E25-B068-8E17D224293D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messages", "Messages\Messages.csproj", "{F79F33B7-A79E-4A16-A755-617D80AA37A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173F3F2C-B254-49BB-BCFF-712C17D3A0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173F3F2C-B254-49BB-BCFF-712C17D3A0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173F3F2C-B254-49BB-BCFF-712C17D3A0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173F3F2C-B254-49BB-BCFF-712C17D3A0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DE02B1-7936-4E25-B068-8E17D224293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DE02B1-7936-4E25-B068-8E17D224293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DE02B1-7936-4E25-B068-8E17D224293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DE02B1-7936-4E25-B068-8E17D224293D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79F33B7-A79E-4A16-A755-617D80AA37A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79F33B7-A79E-4A16-A755-617D80AA37A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79F33B7-A79E-4A16-A755-617D80AA37A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79F33B7-A79E-4A16-A755-617D80AA37A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A782612-B297-4F8C-B439-D49B80B6CF69}
+	EndGlobalSection
+EndGlobal
